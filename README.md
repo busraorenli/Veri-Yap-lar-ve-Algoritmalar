@@ -1,7 +1,7 @@
 # Veri-Yap-lar-ve-Algoritmalar
 3 ödev
 
-##Ödev1
+## Ödev1
 [22,27,16,2,18,6] -> Insertion Sort
 1.	Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 2.	Big-O gösterimini yazınız.
@@ -20,7 +20,7 @@
 [2,3,4,5,7,9,8,15,6]
 [2,3,4,5,6,9,8,15,7]
 
-##Ödev2
+## Ödev2
 [16,21,11,8,12,22] -> Merge Sort
 1.	Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 2.	Big-O gösterimini yazınız.
@@ -33,7 +33,7 @@
 
 2.	O(log(n)) = log(6) = 0.778
 
-##Ödev3
+## Ödev3
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 Çözüm: Binary search için sıralı bir dizi olduğu varsayılır. Bu yüzden önce sıralamamız gerekir.
